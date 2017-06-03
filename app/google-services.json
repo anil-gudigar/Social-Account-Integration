@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "173605262973",
+    "project_id": "trillbits"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173605262973:android:9f4b7eef8841e04f",
+        "android_client_info": {
+          "package_name": "com.trillbit.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173605262973-c5leits5i92fbs0rabf4brv0n858jig9.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "173605262973-b4f33l7qd1ggfs5c0nr1tqnu26t6uq4u.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "173605262973-7pb3pd7iatckl7tcnhvdd7vpt7i49boe.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "173605262973-ahc4kbkcitp9l4949r30al37moeb6lee.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trillbit.app",
+            "certificate_hash": "8f619a0191edcf1c374fb96f2d0297b19c9f230a"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjNZXfgdt87tHm4j6WpL9DkMCIZ0le3Go"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
